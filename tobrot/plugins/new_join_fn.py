@@ -38,7 +38,7 @@ async def help_message_f(client, message):
     #message_id = 99
     # display the /help
     
-    await message.reply_text(" Welcome to DEUS Torrent to GDrive\n\n Check pinned message for more info. Hapy leeching. 😊", disable_web_page_preview=True)
+    await message.reply_text(" Welcome to 'DEUS Torrent to GDrive'\n\n\nCheck pinned message for more info. Happy leeching. 😊", disable_web_page_preview=True)
 
 
 async def rename_message_f(client, message):
